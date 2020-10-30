@@ -1,5 +1,5 @@
 <div width: 1px>
-  <img src="https://i.imgur.com/xrzOnmv.png">
+  <img src="https://i.imgur.com/HUdEpRV.png">
 </div>
 
 <a href="https://github.com/DevPGSV/">
